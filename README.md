@@ -8,3 +8,14 @@ The Center for Legal Services’ homeownership unit helps its clients resolve ta
 
 
 try the demo here https://a2j.org/guide/consent/ab05e4a3-1642-4273-ae76-81e32c6c1127
+
+
+Completed
+-Added basic questions
+-Added fields to templates
+-Produces good draft documents
+
+TODO:
+-Add repeat loop for beneficiaries to Guided Interview and templates
+-fix conditionals for personal representative vs lawyer in templates
+-add conditionals to autofill addresses of lawyers
